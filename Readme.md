@@ -63,9 +63,9 @@ Motor vehicle operation is done with normal driving and braking by FSM. It drive
 
 When a red traffic light starts to be detected, the vehicle starts braking. Also, if the traffic light turns green in the middle, you can see that the vehicle is driving at a normal speed. The throttle and brake pedal are controlled by PID as shown below.
 
-####P: 0.8
-####I: 0.0001
-####D: 0.01
+ - P: 0.8
+ - I: 0.0001
+ - D: 0.01
 
 ## Install
 
