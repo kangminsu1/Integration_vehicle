@@ -26,7 +26,7 @@ Lastly, I'd like to thank you to the Colleagues. If without them, I would never 
 |<img src="./imgs/DongJoo.JPG" alt="Dong-Joo Lee" width="150" height="150"> | - |Dong-Joo Lee|djkang1ee@naver.com|
 
 ### Introduction
-__Min-Su Kang:__ The master's course student. Interest in Machine Learning, Localization and Autonomous Driving.
+__Min-Su Kang:__ The master's course student. Interest in Perception, Localization and Autonomous Driving.
 
 __Sang-Hoon Ahn:__ The Ph.D. student. Interest in Control and Autonomous Driving.
 
