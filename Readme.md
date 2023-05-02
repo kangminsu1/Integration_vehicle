@@ -15,25 +15,6 @@ but more importantly, Communication.
 
 Lastly, I'd like to thank you to the Colleagues. If without them, I would never finished this project.
 
-## Team [Inha Leica]
-
----
-|     Image              |     Role      |      Name      |     email   |
-|------------------------|---------------|----------------|-------------|
-|<img src="./imgs/minsu.JPG" alt="Min-Su Kang" width="150" height="150"> |__Lead__|Min-Su Kang|ziz1945@naver.com|
-|<img src="./imgs/sanhoon.JPG" alt="Sang-Hoon Ahn" width="150" height="150"> | - |Sang-Hoon Ahn|22171365@inha.edu|
-|<img src="./imgs/donghack.JPG" alt="Dong-Hyuk Park" width="150" height="150"> | - |Dong-Hyuk Park|qkrehdgursla@gmail.com|
-|<img src="./imgs/DongJoo.JPG" alt="Dong-Joo Lee" width="150" height="150"> | - |Dong-Joo Lee|djkang1ee@naver.com|
-
-### Introduction
-__Min-Su Kang:__ The master's course student. Interest in Perception, Localization and Autonomous Driving.
-
-__Sang-Hoon Ahn:__ The Ph.D. student. Interest in Control and Autonomous Driving.
-
-__Dong-Hyuk Park:__ The master's course student. Interest in Control and Autonomous Driving.
-
-__Dong-Joo Le:__ The master's course student. Interest in Decision, Localization and Autonomous Driving.
-
 
 ## Traffic Light
 
